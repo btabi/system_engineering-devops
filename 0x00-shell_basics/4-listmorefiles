@@ -1,2 +1,2 @@
-$ ./4-listmorefiles
-total 32
+#!/bin/bash
+ls -la
