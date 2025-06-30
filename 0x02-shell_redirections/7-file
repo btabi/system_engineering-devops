@@ -1,2 +1,15 @@
-#!/bin/bash
-echo "Best School" > \*\\'"Best School"\'\\*$\?\*\*\*\*\*:)
+- [Got]
+
+(0 chars long)
+
+[Expected]
+\*\\'"Best School"\'\\*$\?\*\*\*\*\*:)
+
+(39 chars long) / [Got]
+
+(0 chars long)
+
+[Expected]
+Best School
+
+(12 chars long)
