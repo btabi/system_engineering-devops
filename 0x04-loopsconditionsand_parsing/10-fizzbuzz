@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/usr/bin/env bash
 # This script prints numbers from 1 to 100 with FizzBuzz logic
 
 for i in {1..100}
