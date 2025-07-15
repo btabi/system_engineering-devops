@@ -1,0 +1,5 @@
+#!/usr/bin/env bash
+# Script that kills the 7-highlander process
+
+pid=$(ps -ef | grep '[7]-highlander' | awk '{print $2}')
+[ -n "$pid" ] && kill "$pid"
