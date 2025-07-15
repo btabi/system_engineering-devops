@@ -1,5 +1,6 @@
-#!/bin/bash
-# 0x01. Shell, Permissions
+This repository contains multiple projects focusing on Linux system engineering, DevOps basics, and shell scripting.
 
-## Description
-This project focuses on the fundamentals of
+## Projects Covered
+- 0x00-shell_basics
+- 0x01-shell_permissions
+- 0x05-processes_and_signals
