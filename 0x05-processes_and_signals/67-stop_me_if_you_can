@@ -1,0 +1,5 @@
+#!/usr/bin/env bash
+# Script that stops 7-highlander process without using killall
+
+pid=$(ps -ef | grep '[7]-highlander' | grep -v grep | awk '{print $2}')
+[ -n "$pid" ] && kill "$pid"
