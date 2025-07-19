@@ -1,1 +1,1 @@
-shell prmissions
+shell processes and signals
